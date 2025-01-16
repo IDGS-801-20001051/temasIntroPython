@@ -19,5 +19,3 @@ print(texto.count('e'))
 print(texto.replace('e','a'))
 cadenaSeparada=texto.split(" ")
 print(cadenaSeparada)
-
-
